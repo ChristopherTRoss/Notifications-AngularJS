@@ -1,5 +1,5 @@
 # Notifications AngularJS
-* Notification system using AngularJS.
+* Push notification system using AngularJS.
 * Inject the directive: "notification-directive" into html code in order to use.
 * Use the input.txt file to schedule notifications.
   * Format for notifications in text file: (Title, Contents, Time (24-hour clock))
